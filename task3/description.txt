@@ -1,0 +1,39 @@
+C++ DEVELOPMENT INTERNHSIP (TASK 3)
+
+Project Title: Command-Line Library Management System
+  
+Project Description: Develop a C++ program that allows librarians or users to manage
+library resources, including adding and removing books, checking book availability, and
+displaying the library's catalog.
+  
+Steps you can Implement:
+
+Book Data Structure: Define a data structure (e.g., a struct or class) to represent book
+information, including attributes like title, author, ISBN, and availability status.
+Catalog Management: Create a data structure (e.g., an array or vector) to store the
+library's collection of books.
+  
+User Interface: Design a user-friendly command-line interface that allows users to
+interact with the library system. Create a menu with options for adding, removing,
+searching, and displaying books.
+  
+Add Books: Implement a function to add new books to the library catalog. Collect book
+details (title, author, ISBN) from the user and add the book to the catalog.
+  
+Remove Books: Implement a function to remove books from the catalog based on
+criteria like title or ISBN. Ensure the availability status is updated accordingly.
+  
+Book Availability: Implement a function to check the availability of a book by its title or
+ISBN. Update the availability status when a book is borrowed or returned.
+  
+Display Catalog: Create a function to display the library's catalog, including book details
+and availability status. Format the output for readability.
+  
+File Storage (Optional): Consider adding file storage functionality to save and load the
+library's catalog from a file for persistence between program runs.
+
+Input Validation: Implement input validation to handle errors and edge cases gracefully,
+such as invalid ISBNs or book titles.
+  
+Documentation: Document your code, providing explanations for functions and
+variables. Include user instructions on how to use the library management system.
