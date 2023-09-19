@@ -1,0 +1,4 @@
+select the boxes you want 
+if 'x' pattern made first a/c to the game rules....player 1st wins
+if 'o' pattern made first a/c to the game rules....player 2nd wins
+if no pattern made....then game drawn
