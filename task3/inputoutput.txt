@@ -1,0 +1,14 @@
+1)enter book information .... 
+        1st book name
+        2nd author name
+        3rd isbn
+
+        
+2) view all books that are present in the library 
+
+3) search for book by entering isbn
+      if book present you can borrow it to
+
+4)return a book if you have issued it from library
+
+5)remove a book information from the database
